@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item-->
+<!--        android:id="@+id/notifications"-->
+<!--        android:title="notification"-->
+<!--        android:icon="@drawable/ic_notifications"-->
+<!--        app:showAsAction="always"/>-->
+    <item
+        android:id="@+id/crimelist"
+        android:title="Highest Crime List"/>
+<!--    <item-->
+<!--        android:id="@+id/highestcrimelist"-->
+<!--        android:title="Highest Crime List"/>-->
+</menu>
